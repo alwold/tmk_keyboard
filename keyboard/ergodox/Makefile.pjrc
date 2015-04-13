@@ -116,4 +116,5 @@ micro: all
 cub: OPT_DEFS += -DKEYMAP_CUB
 cub: all
 
-
+alwold: OPT_DEFS += -DKEYMAP_ALWOLD
+alwold: all
